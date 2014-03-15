@@ -1,0 +1,13 @@
+# To Compile
+
+  $ make
+
+# To clean .o files from src/
+
+  $ make clean
+
+# To play
+
+  $ ./flip-a-coin
+  or
+  $ ./gen_input.py | ./flip_a_coin
