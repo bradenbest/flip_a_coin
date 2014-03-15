@@ -15,6 +15,6 @@
 
 # To play
 
-  $ ./flip-a-coin
+  $ ./flip_a_coin
   or
   $ ./gen_input.py | ./flip_a_coin
