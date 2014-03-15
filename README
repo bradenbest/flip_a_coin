@@ -1,3 +1,10 @@
+# To download
+
+  install git, and then, in your shell
+
+    $ git clone https://github.com/bradenbest/flip_a_coin
+    $ cd flip_a_coin
+
 # To Compile
 
   $ make
