@@ -1,4 +1,4 @@
-# Hangman
+# Flip-A-Coin
 
 To download
 -
