@@ -18,5 +18,7 @@ To clean .o files from src/
 To play
 -
     $ ./flip_a_coin
+
 or
+
     $ ./gen_input.py | ./flip_a_coin
