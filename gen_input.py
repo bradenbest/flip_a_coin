@@ -16,4 +16,4 @@ while i > 0:
     print("ty", end='')
 print("tn")
 
-HOLY OBNOCIOUS OUT OF PLACE LINE BATMAN
+print("HOLY OBNOCIOUS OUT OF PLACE LINE BATMAN")
